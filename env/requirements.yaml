@@ -13,3 +13,6 @@ dependencies:
 - name: spring-sample
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: spring-sample1
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
